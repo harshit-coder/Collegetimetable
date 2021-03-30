@@ -1,0 +1,1 @@
+web gunicorn: timetable3.wsgi --log-file -
